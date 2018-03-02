@@ -1,0 +1,9 @@
+author = Duze
+version = 1.0.3
+displayName = On Fire!
+homepage = https://forums.terraria.org/index.php?threads/duzes-compendium-of-mods.66834/
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true
